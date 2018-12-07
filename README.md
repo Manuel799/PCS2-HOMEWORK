@@ -3,5 +3,5 @@ There are 2 ways that I can use in order to sort a certain amount of number; one
 
 
 
-timeit is used to check the time that the 2 alghoritms take to sort the lists that were given. Those lists were given by the random list that we already got from the random function at the very beginnning.
-and from that we can compare between the times and we can find that the quick sort is faster
+timeit is used to check the time that the 2 algorithms take to sort the lists that were given. Those lists were given by the random list that we already got from the random function at the very beginning.
+And from that we can compare between the times and we can find that the quick sort is faster
